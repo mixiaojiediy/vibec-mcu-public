@@ -1,0 +1,12 @@
+{
+    "wifi": {
+        "ssid": "",
+        "password": "",
+        "timeout": 10
+    },
+    "device": {
+        "device_type": "VIBEC-A1",
+        "id": "94A9903060F8",
+        "firmware_version": "v1.0.0"
+    }
+}
